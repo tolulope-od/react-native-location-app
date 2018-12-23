@@ -7,4 +7,5 @@ const fetchLocation = props => {
     )
 }
 
+
 export default fetchLocation;
